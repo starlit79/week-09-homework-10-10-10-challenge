@@ -1,0 +1,23 @@
+{
+  "name": "week-09-homework-10-10-10-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^14.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SummerOfCode2020/week-09-homework-10-10-10-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SummerOfCode2020/week-09-homework-10-10-10-challenge/issues"
+  },
+  "homepage": "https://github.com/SummerOfCode2020/week-09-homework-10-10-10-challenge#readme"
+}
